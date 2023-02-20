@@ -1,0 +1,26 @@
+.bg-con{
+  background-image: url("https://png.pngtree.com/background/20210714/original/pngtree-white-cloud-on-blue-sky-weather-background-picture-image_1229456.jpg");
+  background-size: cover;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top:10px;
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.inner-con{
+  background-color: transparent;
+  color: blueviolet;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  font-weight: 250;
+}
+
+.data{
+  color: red;
+}
+
